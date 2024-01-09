@@ -1,4 +1,4 @@
-# Exchane Rate API ETL
+# Exchagne Rate API ETL
 
 ## Introduction
 This repository contains an ETL (Extract, Transform, Load) project implemented using Apache Airflow for data extraction from an exchange rate API and exporting the data into an Excel sheet.
