@@ -42,3 +42,9 @@ Execute the DAG in Apache Airflow to start the data extraction and loading proce
 ## Usage
 Once everything is set up, manage and monitor your ETL workflow through the Airflow UI.
 
+## run the following command
+sudo apt install python3-pip
+pip3 install apache-airflow
+airflow db init
+airflow webserver -p 8080 & airflow scheduler
+
